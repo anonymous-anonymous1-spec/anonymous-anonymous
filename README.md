@@ -13,6 +13,8 @@ Other details are provided in the paper.
 Our main experimental results:
 
 zero-shot learning:
+
+
 ![屏幕截图 2025-06-07 173702](https://github.com/user-attachments/assets/7b1c6056-0517-4d24-88e1-2ff47302deb3)
 
 
